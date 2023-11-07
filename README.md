@@ -47,6 +47,9 @@ This project is divided into several tasks, each building upon the previous one.
 
 ![Imagen 8](img/8.png)
 
+![Imagen 9](img/9.png)
+
+
 ## Conclusion
 
 The techniques learned in this project not only allow you to create mesmerizing art but also provide valuable insights into data visualization using ggplot2. Explore the fascinating world of mathematical patterns in nature and unleash your creativity to generate beautiful, imaginary flowers.
